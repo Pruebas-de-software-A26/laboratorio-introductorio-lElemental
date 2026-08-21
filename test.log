@@ -1,0 +1,7 @@
+INFO:root:Test case 3
+INFO:root:PASS
+INFO:root:Result= 1
+WARNING:root:Division endiablada
+ERROR:root:Error
+DEBUG:root:The value in a and b is ...
+CRITICAL:root:Critical in time
